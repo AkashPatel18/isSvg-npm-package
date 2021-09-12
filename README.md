@@ -1,0 +1,1 @@
+"# isSvg-npm-package" 
